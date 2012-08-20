@@ -6,7 +6,7 @@ var cocos2dApp = cc.Application.extend({
         cc.COCOS2D_DEBUG = this.config['COCOS2D_DEBUG'];
         cc.setup(this.config['tag']);
 
-        cc.AudioEngine.getInstance().init("mp3");
+        cc.AudioEngine.getInstance().init("mp3,ogg");
 
         cc.Loader.shareLoader().onloading = function () {
             cc.LoaderScene.shareLoaderScene().draw();
