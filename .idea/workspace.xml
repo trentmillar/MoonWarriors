@@ -2,7 +2,500 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c29780-5543-4c45-a135-bd30498d481d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs" afterPath="$PROJECT_DIR$/libs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/res/CloseNormal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/res/CloseSelected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/res/HelloWorld.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/res/cocos64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/res/grossini_dance_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/res/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/cocos2dnacl_x86_32.nexe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/cocos2dnacl_x86_64.nexe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/res/CloseNormal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/res/CloseSelected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/res/HelloWorld.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/res/cocos64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/res/grossini_dance_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/res/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/res/CloseNormal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/res/CloseSelected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/res/HelloWorld.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/res/cocos64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/res/grossini_dance_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/res/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/keyboard_dispatcher/.CCKeypadDelegate.js.swp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/keyboard_dispatcher/.CCKeypadDispatcher.js.swp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/template/res/CloseNormal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/template/res/CloseSelected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/template/res/HelloWorld.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/CloseNormal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/HelloWorld.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/SendScoreButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/SendScoreButtonPressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/arrows-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/arrowsBar-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/arrowsBar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/atlastest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/b1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/b2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/background1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/background2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/background3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/blocks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/btn-about-normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/btn-about-selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/btn-highscores-normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/btn-highscores-selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/btn-play-normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/btn-play-selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/cocos2dbanner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/f1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/f2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/fire.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/fps_images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_atlas-mono.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossini_dance_atlas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossinis_sister1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/grossinis_sister2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/landscape-1024x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/menuitemsprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/movement.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/paddle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/particles-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/particles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/piece.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/powered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/r1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/r2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/shapemode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/snow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-0-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-0-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-0-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-0-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-0-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-0-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-0-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-0-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-1-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-1-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-1-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-1-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-1-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-1-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-1-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-1-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-2-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-2-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-2-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-2-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-2-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-2-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-2-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-2-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-3-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-3-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-3-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-3-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-3-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-3-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-3-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-3-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-4-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-4-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-4-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-4-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-4-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-4-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-4-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-4-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-5-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-5-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-5-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-5-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-5-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-5-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-5-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-5-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-6-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-6-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-6-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-6-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-6-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-6-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-6-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-6-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-7-0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-7-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-7-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-7-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-7-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-7-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-7-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/sprites_test/sprite-7-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/spritesheet1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/stars-grayscale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/stars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/stars2-grayscale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/stars2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/streak.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/test_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/texture1024x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/texture512x512.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/texturemode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/fixed-ortho-test2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/hexa-tiles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/levelmap.tga" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/ortho-test1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/ortho-test1_bw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/ortho-test2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/tiles-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/tiles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/tmw_desert_spacing-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/tmw_desert_spacing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/dragon_animation-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/dragon_animation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/ghosts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini-aliases.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini.zss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini.ztp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini_family.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini_gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/background.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/background.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/effect2.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/effect2.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/A Damn Mess.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/Abberancy.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/Abduction.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/American Typewriter.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/Courier New.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/Marker Felt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/Paint Boy.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/Schwarzwald Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/Scissor Cuts.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/Thonburi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/ThonburiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/arial-unicode-26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/arial.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/arial16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontChinese.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontChinese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/fps_images-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/fps_images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/futura-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/helvetica-geneva-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/konqa32-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/konqa32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/larabie-16-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/larabie-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/markerFelt-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/markerFelt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/tahoma.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/tuffy_bold_italic-charmap-hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/tuffy_bold_italic-charmap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tools/compiler/compiler.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/bg01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/enemy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/explosion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/gameover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/loading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/loading.xcf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/logo.xcf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/menutitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/player.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/level/01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/music/theme.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/sound/arrow-shot.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/MyFirstApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/cocos2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/AUTHORS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/CocosDenshion/SimpleAudioEngine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/cocos2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/src/myApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/cocos2dnacl.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/cocos2dnacl.nmf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/helper_functions.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/helper_functions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/cocos2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/src/NativeClient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/Demo/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/cocos2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/HelloHTML5World/src/myApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/box2d/box2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/CCCamera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/CCDirector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/CCDrawingPrimitives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/CCLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/CCScheduler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCAction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionCamera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionCatmullRom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionEase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionGrid3D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionInstant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionInterval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionPageTurn3D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionProgressTimer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionTiledGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/actions/CCActionTween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/base_nodes/CCAtlasNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/base_nodes/CCNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/base_nodes/CCdomNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/cocoa/CCAffineTransform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/cocoa/CCGeometry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/cocoa/CCNS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/cocoa/CCSet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/cocos2d_externs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/effects/CCGrabber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/effects/CCGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/keyboard_dispatcher/CCKeyboardDelegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/keyboard_dispatcher/CCKeyboardDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/label_nodes/CCLabelAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/label_nodes/CCLabelBMFont.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/label_nodes/CCLabelTTF.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/layers_scenes_transitions_nodes/CCLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/layers_scenes_transitions_nodes/CCScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/layers_scenes_transitions_nodes/CCTransition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/layers_scenes_transitions_nodes/CCTransitionPageTurn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/layers_scenes_transitions_nodes/CCTransitionProgress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/menu_nodes/CCMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/menu_nodes/CCMenuItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/misc_nodes/CCMotionStreak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/misc_nodes/CCProgressTimer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/misc_nodes/CCRenderTexture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/particle_nodes/CCParticleBatchNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/particle_nodes/CCParticleExamples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/particle_nodes/CCParticleSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/particle_nodes/CCParticleSystemQuad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/AppControl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCApplication.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCCommon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCFileUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCImage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCMacro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCSAXParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/ZipUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/gzip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/jsloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/miniFramework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/platform/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/sprite_nodes/CCAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/sprite_nodes/CCAnimationCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/sprite_nodes/CCSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/sprite_nodes/CCSpriteBatchNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/sprite_nodes/CCSpriteFrame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/sprite_nodes/CCSpriteFrameCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/support/CCPointExtension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/text_input_node/CCIMEDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/text_input_node/CCTextFieldTTF.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/textures/CCTexture2D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/textures/CCTextureAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/textures/CCTextureCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/tileMap_parallax_nodes/CCParallaxNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/tileMap_parallax_nodes/CCTMXLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/tileMap_parallax_nodes/CCTMXObjectGroup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/tileMap_parallax_nodes/CCTMXTiledMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/tileMap_parallax_nodes/CCTMXXMLParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/tileMap_parallax_nodes/CCTileMapAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/touch_dispatcher/CCTouchDelegateProtocol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/touch_dispatcher/CCTouchDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/cocos2d/touch_dispatcher/CCTouchHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/licenses/LICENSE_cocos2d-html5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/licenses/LICENSE_cocos2d-x.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/template/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/template/cocos2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/template/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/template/src/myApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/template/src/resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/cocos2d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Images/BoilingFoam.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/BoilingFoam.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/BurstPipe.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/Comet.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/ExplodingRing.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/Flower.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/Galaxy.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/LavaFlow.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/Phoenix.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/SmallSun.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/SpinningPeas.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/Spiral.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/SpookyPeas.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/TestPremultipliedAlpha.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/Upsidedown.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/Particles/debian.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/hexa-test.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test-bug787.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test-movelayer.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test-objectgroup.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test-vertexz.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test-zorder.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test1.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test2-uncompressed.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/iso-test2.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/ortho-objects.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/ortho-rotation-test.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/ortho-tile-property.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test-movelayer.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test-vertexz.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test-zorder.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test1.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test1.tsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test2.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test3.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test4-hd.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test4.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test5.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test6-hd.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/orthogonal-test6.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/TileMaps/test-object-layer.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/animations-2.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/animations.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/ghosts.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini-aliases.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini.plist.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini_blue.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini_family.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/animations/grossini_gray.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/arial-unicode-26.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/arial16.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest2.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest3.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest4.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/bitmapFontTest5.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/font-issue1343-hd.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/font-issue1343.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/futura-48.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/geneva-32.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/helvetica-32.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/konqa32-hd.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/konqa32.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/larabie-16-hd.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/larabie-16.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/markerFelt-hd.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/markerFelt.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/tuffy_bold_italic-charmap-hd.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/tuffy_bold_italic-charmap.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/res/fonts/west_england-64.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/testResource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/testbasic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/ActionManagerTest/ActionManagerTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/ActionsTest/ActionsTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/Box2dTest/Box2dTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/ClickAndMoveTest/ClickAndMoveTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/CocosDenshionTest/CocosDenshionTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/CocosNodeTest/CocosNodeTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/CurrentLanguageTest/CurrentLanguageTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/DrawPrimitivesTest/DrawPrimitivesTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/EaseActionsTest/EaseActionsTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/FontTest/FontTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/IntervelTest/IntervelTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/LabelTest/LabelTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/LayerTest/LayerTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/MenuTest/MenuTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/MultiTouchTest/MultiTouchTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/ParallaxTest/ParallaxTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/ParticleTest/ParticleTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/PerformanceTest/PerformanceNodeChildrenTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/PerformanceTest/PerformanceParticleTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/PerformanceTest/PerformanceSpriteTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/PerformanceTest/PerformanceTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/PerformanceTest/PerformanceTextureTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/PerformanceTest/PerformanceTouchesTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/ProgressActionsTest/ProgressActionsTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/RotateWorldTest/RotateWorldTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/SceneTest/SceneTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/SchedulerTest/SchedulerTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/SpriteTest/SpriteTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/TextInputTest/TextInputTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/TextureCacheTest/TextureCacheTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/TileMapTest/TileMapTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/TouchesTest/Ball.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/TouchesTest/Paddle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/TouchesTest/TouchesTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tests/src/tests/TransitionsTest/TransitionsTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tools/jsdoc_toolkit/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/libs/tools/readme for tools.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/enemy.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/explosion.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/player.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/level/01.tmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/AboutLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/Bullet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/Enemy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/Explosion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/GameControlMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/GameController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/GameLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/GameOver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/Player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/Resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/SettingsLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/SysMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/config/EnemyType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/config/GameConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/config/Level.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MoonWarriors.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,91 +517,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MoonWarriors-html5.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game/MoonWarriors-html5.js">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="1342" selection-end="1342" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameConfig.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game/src/config/GameConfig.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="11" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Level.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game/src/config/Level.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="21" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnemyType.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game/src/config/EnemyType.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="27" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+            <state line="26" column="20" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SysMenu.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game/src/SysMenu.js">
+        <entry file="file://$PROJECT_DIR$/Game02/src/SysMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="20" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
+            <state line="23" column="16" selection-start="738" selection-end="738" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ship.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game/src/Ship.js">
+      <file leaf-file-name="CCClass.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCClass.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="34" selection-start="2736" selection-end="2736" vertical-scroll-proportion="0.0">
+            <state line="75" column="0" selection-start="2859" selection-end="2859" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.js">
+      <file leaf-file-name="SettingsLayer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/SettingsLayer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="11" selection-start="1586" selection-end="1586" vertical-scroll-proportion="0.4420131">
+            <state line="14" column="33" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SysMenu.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../MoonWarriors/MoonWarriors/src/SysMenu.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="11" selection-start="4187" selection-end="4187" vertical-scroll-proportion="0.0">
+            <state line="11" column="23" selection-start="377" selection-end="377" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCSAXParser.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/cocos2d/platform/CCSAXParser.js">
+      <file leaf-file-name="Bullet.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/Bullet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="179" column="0" selection-start="6104" selection-end="6104" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Resource.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game/src/Resource.js">
+      <file leaf-file-name="Player.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/Player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="24" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+            <state line="10" column="26" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameLayer.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Game02/src/GameLayer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="20" selection-start="1713" selection-end="1713" vertical-scroll-proportion="0.38018432">
               <folding />
             </state>
           </provider>
@@ -127,17 +602,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Game/MoonWarriors-html5.js" />
-        <option value="$PROJECT_DIR$/Game/src/Resource.js" />
+        <option value="$PROJECT_DIR$/Game02/res/image/player.plist" />
+        <option value="$PROJECT_DIR$/Game02/src/Bullet.js" />
+        <option value="$PROJECT_DIR$/Game02/src/GameOver.js" />
+        <option value="$PROJECT_DIR$/Game02/src/Explosion.js" />
+        <option value="$PROJECT_DIR$/Game02/src/Player.js" />
+        <option value="$PROJECT_DIR$/Game02/res/image/enemy.plist" />
+        <option value="$PROJECT_DIR$/Game02/src/Enemy.js" />
+        <option value="$PROJECT_DIR$/Game02/src/AboutLayer.js" />
+        <option value="$PROJECT_DIR$/Game02/src/SettingsLayer.js" />
+        <option value="$PROJECT_DIR$/libs/cocos2d/platform/jsloader.js" />
+        <option value="$PROJECT_DIR$/Game02/cocos2d.js" />
+        <option value="$PROJECT_DIR$/Game02/src/Resource.js" />
+        <option value="$PROJECT_DIR$/Game02/main.js" />
+        <option value="$PROJECT_DIR$/Game02/index.html" />
+        <option value="$PROJECT_DIR$/Game02/src/SysMenu.js" />
+        <option value="$PROJECT_DIR$/Game02/src/GameLayer.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
     <option name="y" value="22" />
-    <option name="width" value="1436" />
-    <option name="height" value="878" />
+    <option name="width" value="1440" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -146,10 +633,13 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>CSS</id>
+            <id>Probable BugsJavaScript</id>
           </State>
         </selected-state>
       </profile-state>
@@ -162,7 +652,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -181,6 +671,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,35 +699,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.main.proportions" value="0.30000004" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="settings.xslt" />
+    <property name="options.lastSelected" value="project.propDebugger" />
     <property name="recentsLimit" value="5" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig" createEmptyFolders="true">
-    <servers>
-      <server id="1f8948db-69ae-451e-a9c1-3783317caa78">
-        <serverdata>
-          <mappings>
-            <mapping deploy="Game01" local="$PROJECT_DIR$" web="Game01" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
+  <component name="PublishConfig" createEmptyFolders="true" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Game02" />
+      <recent name="$PROJECT_DIR$/Game02/src" />
+      <recent name="$PROJECT_DIR$/Game02/res/image" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugSession" factoryName="Local" temporary="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="firefox" />
-        <option name="fileUrl" value="file://$PROJECT_DIR$/index.html" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/Game02/index.html" />
       </JSDebuggerConfigurationSettings>
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -285,22 +815,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="22" width="1436" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="826" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4266843" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32765958" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907802" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32765958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14791225" sideWeight="0.67107004" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1474947" sideWeight="0.67234045" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30496454" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907802" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -314,8 +844,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -346,7 +876,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to latest cocos2d" />
+    <option name="LAST_COMMIT_MESSAGE" value="breaking changes" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -360,119 +890,223 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="update to latest cocos2d" />
+    <MESSAGE value="breaking changes" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
+          <line>108</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
+          <line>100</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
+          <line>10</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
+          <line>7</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/main.js</url>
+          <line>22</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/main.js</url>
+          <line>3</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/main.js</url>
+          <line>1</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/Player.js</url>
+          <line>101</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/Player.js</url>
+          <line>22</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/Player.js</url>
+          <line>175</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/GameLayer.js</url>
+          <line>34</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
+          <line>49</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/GameLayer.js</url>
+          <line>73</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
+          <line>66</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
+          <line>72</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
+          <line>78</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/main.js</url>
+          <line>29</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/main.js</url>
+          <line>11</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/main.js</url>
+          <line>14</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/main.js</url>
+          <line>17</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game/src/GameLayer.js</url>
+          <line>317</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game/src/GameLayer.js</url>
+          <line>309</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/GameLayer.js</url>
+          <line>30</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/Player.js</url>
+          <line>132</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Game02/src/GameLayer.js</url>
+          <line>63</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/libs/cocos2d/textures/CCTextureCache.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCApplication.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="169" column="0" selection-start="5597" selection-end="5597" vertical-scroll-proportion="0.0">
+        <state line="239" column="0" selection-start="7050" selection-end="7050" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/cocos2d/CCLoader.js">
+    <entry file="file://$PROJECT_DIR$/Game/src/GameLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="0" selection-start="5162" selection-end="5162" vertical-scroll-proportion="0.0">
+        <state line="309" column="0" selection-start="10925" selection-end="10925" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/cocos2d/platform/jsloader.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/cocoa/CCGeometry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="0" selection-start="5516" selection-end="5516" vertical-scroll-proportion="0.0">
+        <state line="57" column="0" selection-start="1877" selection-end="1877" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/Cocos2d-html5-canvasmenu-min.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/base_nodes/CCNode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="631" column="0" selection-start="18011" selection-end="18011" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/src/AboutLayer.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/jsloader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0">
+        <state line="142" column="0" selection-start="5542" selection-end="5542" vertical-scroll-proportion="1.2380953">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/src/Bullet.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCConfig.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="10" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+        <state line="289" column="0" selection-start="10209" selection-end="10209" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/src/Resource.js">
+    <entry file="file://$PROJECT_DIR$/Game02/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="24" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+        <state line="11" column="23" selection-start="377" selection-end="377" vertical-scroll-proportion="-6.875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/MoonWarriors-html5.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCCommon.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="1342" selection-end="1342" vertical-scroll-proportion="0.0">
+        <state line="54" column="0" selection-start="2091" selection-end="2091" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/src/config/GameConfig.js">
+    <entry file="file://$PROJECT_DIR$/Game02/src/SettingsLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="11" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+        <state line="14" column="33" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/src/config/Level.js">
+    <entry file="file://$PROJECT_DIR$/Game02/src/SysMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
+        <state line="23" column="16" selection-start="738" selection-end="738" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/src/config/EnemyType.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/textures/CCTextureCache.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+        <state line="149" column="0" selection-start="4892" selection-end="4892" vertical-scroll-proportion="0.3317757">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/src/SysMenu.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCClass.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="20" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
+        <state line="75" column="0" selection-start="2859" selection-end="2859" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game02/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="20" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Game/src/Ship.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="34" selection-start="2736" selection-end="2736" vertical-scroll-proportion="0.0">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/cocos2d/platform/CCSAXParser.js">
+    <entry file="file://$PROJECT_DIR$/Game02/src/Player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="179" column="0" selection-start="6104" selection-end="6104" vertical-scroll-proportion="0.0">
+        <state line="10" column="26" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../MoonWarriors/MoonWarriors/src/SysMenu.js">
+    <entry file="file://$PROJECT_DIR$/Game02/src/GameLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="11" selection-start="4187" selection-end="4187" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="11" selection-start="1586" selection-end="1586" vertical-scroll-proportion="0.4420131">
+        <state line="60" column="20" selection-start="1713" selection-end="1713" vertical-scroll-proportion="0.38018432">
           <folding />
         </state>
       </provider>
