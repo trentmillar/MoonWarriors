@@ -23,7 +23,7 @@ if( cc.config.deviceType == 'browser') {
 var s_level_01 = s_levelDirectory + "01.tmx";
 
 //images
-var s_image_background_01 = s_levelDirectory + "bg01.png";
+var s_image_background_01 = s_levelDirectory + "underwaterBackground.png";
 var s_image_level_01 = s_levelDirectory + "01.png";
 var s_image_background_loading = s_imageDirectory + "loading.png";
 var s_image_logo = s_imageDirectory + "logo.png";
@@ -84,12 +84,11 @@ var s_plist_enemy = s_plistDirectory + "enemy.plist";
 //var s_explosion_plist = dirImg + "explosion.plist";
 //var s_bullet_plist = dirImg + "bullet.plist";
 
-var g_ressources = [
+var g_resources = [
     //levels
-    {type:"level", src:s_level_01},
+    {type:"tmx", src:s_level_01},
 
     //images
-    {type:"image", src:s_image_background_01},
     {type:"image", src:s_image_level_01},
     {type:"image", src:s_image_background_loading},
     {type:"image", src:s_image_logo},
@@ -99,17 +98,18 @@ var g_ressources = [
     {type:"image", src:s_image_player_sprite},
     {type:"image", src:s_image_explosion_sprite},
     {type:"image", src:s_image_enemy_sprite},
+    /*{type:"image", src:s_image_background_01},*/
 
     //music
-    {type:"music", src:s_music_theme},
+    {type:"bgm", src:s_music_theme},
 
     //effects
-    {type:"effects", src:s_sound_arrow_shot},
+    {type:"effect", src:s_sound_arrow_shot},
 
     //plist
-    {type:"plist", src:s_plist_explosion},
-    {type:"plist", src:s_plist_enemy},
-    {type:"plist", src:s_plist_player}
+    { type: "plist", src: s_plist_explosion },
+    { type: "plist", src: s_plist_enemy },
+    { type: "plist", src: s_plist_player }
 
     //image
     /*{type:"image", src:s_bg01},

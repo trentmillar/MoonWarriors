@@ -1,10 +1,3 @@
-//
-// MoonWarriors
-//
-// Handles the Game Logic
-//
-
-
 STATE_PLAYING = 0;
 STATE_GAMEOVER = 1;
 
@@ -61,12 +54,12 @@ var GameLayer = cc.Layer.extend({
             var playerTexture = cc.TextureCache.getInstance().addImage(s_image_player_sprite);
             var life = cc.Sprite.createWithTexture(playerTexture, cc.rect(0, 0, 100, 100));
             life.setScale(0.4);
-            life.setPosition(cc.p(30, winSize.width - 20)); // 748));
+            life.setPosition(cc.p(30, winSize.height - 20)); // 748));
             this.addChild(life, 1, 5);
 
             // ship Life count
             this._lbLife = cc.LabelTTF.create("0", "Arial", 20);
-            this._lbLife.setPosition(cc.p(60, winSize.width - 17)); //751));
+            this._lbLife.setPosition(cc.p(60, winSize.height - 17)); //751));
             this._lbLife.setColor(cc.RED);
             this.addChild(this._lbLife, 1000);
 
@@ -130,10 +123,10 @@ var GameLayer = cc.Layer.extend({
     processEvent:function( event ) {
         if( this._state == STATE_PLAYING ) {
             var delta = event.getDelta();
-            var curPos = this._ship.getPosition();
+            var curPos = this._player.getPosition();
             curPos= cc.pAdd( curPos, delta );
             curPos = cc.pClamp(curPos, cc.POINT_ZERO, cc.p(winSize.width, winSize.height) );
-            this._ship.setPosition( curPos );
+            this._player.setPosition( curPos );
         }
     },
 
@@ -172,10 +165,10 @@ var GameLayer = cc.Layer.extend({
                     bulletChild.destroy();
                 }
             }
-            if (this.collide(selChild, this._ship)) {
-                if (this._ship.active) {
+            if (this.collide(selChild, this._player)) {
+                if (this._player.active) {
                     selChild.hurt();
-                    this._ship.hurt();
+                    this._player.hurt();
                 }
             }
             if (!cc.rectIntersectsRect(this.screenRect, selChild.getBoundingBox() )) {
@@ -185,10 +178,10 @@ var GameLayer = cc.Layer.extend({
 
         for (i = 0; i < MW.CONTAINER.ENEMY_BULLETS.length; i++) {
             selChild = MW.CONTAINER.ENEMY_BULLETS[i];
-            if (this.collide(selChild, this._ship)) {
-                if (this._ship.active) {
+            if (this.collide(selChild, this._player)) {
+                if (this._player.active) {
                     selChild.hurt();
-                    this._ship.hurt();
+                    this._player.hurt();
                 }
             }
             if (!cc.rectIntersectsRect(this.screenRect, selChild.getBoundingBox() )) {
@@ -220,7 +213,7 @@ var GameLayer = cc.Layer.extend({
             this._player = new Player();
             this.addChild(this._player, this._player.zOrder, MW.UNIT_TAG.PLAYER);
         }
-        else if (MW.LIFE <= 0 && !this._ship.active) {
+        else if (MW.LIFE <= 0 && !this._player.active) {
             this._state = STATE_GAMEOVER;
             // XXX: needed for JS bindings.
             this._player = null;
@@ -245,7 +238,7 @@ var GameLayer = cc.Layer.extend({
     },
     initBackground:function () {
         // bg
-        this._backSky = cc.Sprite.create(s_image_background_01);
+        this._backSky = cc.Sprite.create(s_image_background_loading);
         this._backSky.setAnchorPoint(cc.p(0, 0));
         this._backSkyHeight = this._backSky.getContentSize().height;
         this.addChild(this._backSky, -10);
@@ -260,7 +253,7 @@ var GameLayer = cc.Layer.extend({
         this._backSky.runAction(cc.MoveBy.create(3, cc.p(0, -48)));
         this._backTileMap.runAction(cc.MoveBy.create(3, cc.p(0, -200)));
 
-        this.schedule(this.movingBackground, 3);
+        //this.schedule(this.movingBackground, 3);
     },
     movingBackground:function () {
         this._backSky.runAction(cc.MoveBy.create(3, cc.p(0, -48)));
@@ -270,7 +263,7 @@ var GameLayer = cc.Layer.extend({
 
         if (this._backSkyHeight <= winSize.height) {
             if (!this._isBackSkyReload) {
-                this._backSkyRe = cc.Sprite.create(s_image_background_01);
+                this._backSkyRe = cc.Sprite.create(s_image_background_loading);
                 this._backSkyRe.setAnchorPoint(cc.p(0, 0));
                 this.addChild(this._backSkyRe, -10);
                 this._backSkyRe.setPosition(cc.p(0, winSize.height));

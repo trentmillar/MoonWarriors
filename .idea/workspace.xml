@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c29780-5543-4c45-a135-bd30498d481d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/res/image/robot/player.tps" afterPath="$PROJECT_DIR$/Game02/res/image/robot/player.tps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/res/image/underwaterBackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game02/src/LevelManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/cocos2dnacl_x86_32.nexe" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/cocos2dnacl_x86_32.nexe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/cocos2dnacl_x86_64.nexe" afterPath="$PROJECT_DIR$/Game02/libs/Demo/NativeClientDemo/NaclModule/cocos2dnacl_x86_64.nexe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/res/image/bg01.png" afterPath="$PROJECT_DIR$/Game02/res/image/bg01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/res/image/player.png" afterPath="$PROJECT_DIR$/Game02/res/image/player.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/cocos2d.js" afterPath="$PROJECT_DIR$/Game02/cocos2d.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/main.js" afterPath="$PROJECT_DIR$/Game02/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/res/image/player.plist" afterPath="$PROJECT_DIR$/Game02/res/image/player.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/res/level/01.tmx" afterPath="$PROJECT_DIR$/Game02/res/level/01.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/src/Explosion.js" afterPath="$PROJECT_DIR$/Game02/src/Explosion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/src/GameControlMenu.js" afterPath="$PROJECT_DIR$/Game02/src/GameControlMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/src/GameLayer.js" afterPath="$PROJECT_DIR$/Game02/src/GameLayer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/src/Player.js" afterPath="$PROJECT_DIR$/Game02/src/Player.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/src/Resource.js" afterPath="$PROJECT_DIR$/Game02/src/Resource.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game02/src/SysMenu.js" afterPath="$PROJECT_DIR$/Game02/src/SysMenu.js" />
     </list>
     <ignored path="MoonWarriors.iws" />
@@ -27,64 +40,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game02/main.js">
+      <file leaf-file-name="GameLayer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/GameLayer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="44" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0">
+            <state line="43" column="34" selection-start="1197" selection-end="1197" vertical-scroll-proportion="-8.846154">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SysMenu.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Game02/src/SysMenu.js">
+      <file leaf-file-name="Explosion.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Game02/src/Explosion.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="0" selection-start="4280" selection-end="4280" vertical-scroll-proportion="0.85631067">
+            <state line="35" column="0" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.94026977">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myApp.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game02/libs/HelloHTML5World/src/myApp.js">
+      <file leaf-file-name="LevelManager.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/LevelManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="0" selection-start="2444" selection-end="2965" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CCMenuItem.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/cocos2d/menu_nodes/CCMenuItem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="811" column="18" selection-start="21549" selection-end="21549" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SettingsLayer.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game02/src/SettingsLayer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="33" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game02/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="23" selection-start="377" selection-end="377" vertical-scroll-proportion="-6.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bullet.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game02/src/Bullet.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+            <state line="69" column="40" selection-start="2480" selection-end="2480" vertical-scroll-proportion="-6.8846154">
               <folding />
             </state>
           </provider>
@@ -93,16 +70,79 @@
       <file leaf-file-name="Player.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Game02/src/Player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="9" selection-start="4996" selection-end="4996" vertical-scroll-proportion="0.0">
+            <state line="99" column="0" selection-start="3434" selection-end="3434" vertical-scroll-proportion="-0.53846157">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bullet.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/Bullet.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="60" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameOver.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/GameOver.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="9" selection-start="37" selection-end="42" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Resource.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/Resource.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="100" column="48" selection-start="3572" selection-end="3618" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysMenu.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/SysMenu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="28" selection-start="3493" selection-end="3493" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameControlMenu.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/GameControlMenu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="6" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enemy.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game02/src/Enemy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="6" selection-start="1174" selection-end="1281" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameControlMenu.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game/src/GameControlMenu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="GameLayer.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game02/src/GameLayer.js">
+        <entry file="file://$PROJECT_DIR$/Game/src/GameLayer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="314" column="0" selection-start="11171" selection-end="11171" vertical-scroll-proportion="0.0">
+            <state line="11" column="4" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -121,22 +161,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Game02/res/image/player.plist" />
-        <option value="$PROJECT_DIR$/Game02/src/Bullet.js" />
-        <option value="$PROJECT_DIR$/Game02/src/GameOver.js" />
-        <option value="$PROJECT_DIR$/Game02/src/Explosion.js" />
-        <option value="$PROJECT_DIR$/Game02/src/Player.js" />
         <option value="$PROJECT_DIR$/Game02/res/image/enemy.plist" />
-        <option value="$PROJECT_DIR$/Game02/src/Enemy.js" />
         <option value="$PROJECT_DIR$/Game02/src/AboutLayer.js" />
         <option value="$PROJECT_DIR$/Game02/src/SettingsLayer.js" />
         <option value="$PROJECT_DIR$/libs/cocos2d/platform/jsloader.js" />
-        <option value="$PROJECT_DIR$/Game02/cocos2d.js" />
-        <option value="$PROJECT_DIR$/Game02/src/Resource.js" />
         <option value="$PROJECT_DIR$/Game02/index.html" />
-        <option value="$PROJECT_DIR$/Game02/src/GameLayer.js" />
         <option value="$PROJECT_DIR$/Game02/main.js" />
+        <option value="$PROJECT_DIR$/Game02/libs/Demo/HelloDomMenu/src/myApp.js" />
+        <option value="$PROJECT_DIR$/Game02/cocos2d.js" />
         <option value="$PROJECT_DIR$/Game02/src/SysMenu.js" />
+        <option value="$PROJECT_DIR$/Game02/src/Resource.js" />
+        <option value="$PROJECT_DIR$/Game02/res/level/01.tmx" />
+        <option value="$PROJECT_DIR$/Game02/src/GameControlMenu.js" />
+        <option value="$PROJECT_DIR$/Game02/src/LevelManager.js" />
+        <option value="$PROJECT_DIR$/Game02/src/Player.js" />
+        <option value="$PROJECT_DIR$/Game02/src/Enemy.js" />
+        <option value="$PROJECT_DIR$/Game02/src/GameLayer.js" />
       </list>
     </option>
   </component>
@@ -265,7 +305,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -283,11 +323,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HelloHTML5World" />
+              <option name="myItemId" value="level" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -305,15 +345,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HelloHTML5World" />
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -324,19 +410,29 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.30000004" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propDebugger" />
+    <property name="options.lastSelected" value="web.server" />
     <property name="recentsLimit" value="5" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig" createEmptyFolders="true" />
+  <component name="PublishConfig" serverName="WEB" serverId="4600d781-a8db-496c-9a1c-8666796a8c27" createEmptyFolders="true">
+    <servers>
+      <server id="4600d781-a8db-496c-9a1c-8666796a8c27">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Game02/res/image" />
       <recent name="$PROJECT_DIR$/Game02" />
       <recent name="$PROJECT_DIR$/Game02/src" />
-      <recent name="$PROJECT_DIR$/Game02/res/image" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -397,7 +493,11 @@
       <created>1345178371073</created>
       <updated>1345178371074</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes to image placement.">
+      <created>1345436621847</created>
+      <updated>1345436621848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -407,12 +507,12 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32765958" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907802" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32765958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32760897" sideWeight="0.46827134" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15244347" sideWeight="0.71598417" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28401586" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15244347" sideWeight="0.75033027" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24966975" sideWeight="0.4741065" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24966975" sideWeight="0.5207878" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907802" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -462,7 +562,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="breaking changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to image placement." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -477,81 +577,18 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="update to latest cocos2d" />
     <MESSAGE value="breaking changes" />
+    <MESSAGE value="changes to image placement." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
-          <line>126</line>
+          <line>127</line>
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
-          <line>10</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
-          <line>7</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/main.js</url>
-          <line>22</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/main.js</url>
-          <line>3</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/main.js</url>
-          <line>1</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/Player.js</url>
-          <line>101</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/Player.js</url>
-          <line>22</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/Player.js</url>
-          <line>175</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/GameLayer.js</url>
-          <line>34</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
-          <line>52</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/GameLayer.js</url>
-          <line>73</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
-          <line>90</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
-          <line>96</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/main.js</url>
-          <line>29</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/main.js</url>
-          <line>11</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/main.js</url>
-          <line>14</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/main.js</url>
-          <line>17</line>
+          <line>97</line>
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Game/src/GameLayer.js</url>
@@ -561,134 +598,123 @@
           <url>file://$PROJECT_DIR$/Game/src/GameLayer.js</url>
           <line>309</line>
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/GameLayer.js</url>
-          <line>30</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/GameLayer.js</url>
-          <line>63</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/GameLayer.js</url>
-          <line>314</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Game02/src/SysMenu.js</url>
-          <line>12</line>
-        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCConfig.js">
+    <entry file="file://$PROJECT_DIR$/Game02/src/GameController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="289" column="0" selection-start="10209" selection-end="10209" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game02/index.html">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/CCScheduler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="377" selection-end="377" vertical-scroll-proportion="-6.875">
+        <state line="576" column="0" selection-start="18222" selection-end="18222" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCCommon.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/CCDirector.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="2091" selection-end="2091" vertical-scroll-proportion="0.0">
+        <state line="1188" column="0" selection-start="36232" selection-end="36232" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game02/src/SettingsLayer.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCApplication.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="33" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
+        <state line="239" column="0" selection-start="7050" selection-end="7050" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/textures/CCTextureCache.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/layers_scenes_transitions_nodes/CCTransition.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="149" column="0" selection-start="4892" selection-end="4892" vertical-scroll-proportion="0.3317757">
+        <state line="111" column="0" selection-start="3412" selection-end="3412" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/platform/CCClass.js">
+    <entry file="file://$PROJECT_DIR$/Game02/libs/cocos2d/CCDrawingPrimitives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="0" selection-start="2859" selection-end="2859" vertical-scroll-proportion="0.0">
+        <state line="411" column="39" selection-start="14564" selection-end="14564" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/src/Ship.js">
+    <entry file="file://$PROJECT_DIR$/Game02/src/AboutLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/CocosDenshion/SimpleAudioEngine.js">
+    <entry file="file://$PROJECT_DIR$/Game/src/GameLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="334" column="7" selection-start="10757" selection-end="10757" vertical-scroll-proportion="1.306288">
+        <state line="11" column="4" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game02/src/LevelManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="40" selection-start="2480" selection-end="2480" vertical-scroll-proportion="-6.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game02/src/Bullet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="60" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game02/src/GameOver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="9" selection-start="37" selection-end="42" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Game02/src/Player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="9" selection-start="4996" selection-end="4996" vertical-scroll-proportion="0.0">
+        <state line="99" column="0" selection-start="3434" selection-end="3434" vertical-scroll-proportion="-0.53846157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game02/src/GameControlMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="6" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game02/src/Enemy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="6" selection-start="1174" selection-end="1281" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Game02/src/GameLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="314" column="0" selection-start="11171" selection-end="11171" vertical-scroll-proportion="0.0">
+        <state line="43" column="34" selection-start="1197" selection-end="1197" vertical-scroll-proportion="-8.846154">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../cocos2d-html5/cocos2d/actions/CCActionInterval.js">
+    <entry file="file://$PROJECT_DIR$/Game02/src/Explosion.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="873" column="3" selection-start="24139" selection-end="24139" vertical-scroll-proportion="0.4302789">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/cocos2d/menu_nodes/CCMenuItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="811" column="18" selection-start="21549" selection-end="21549" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Game02/libs/HelloHTML5World/cocos2d.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.61257607">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Game02/libs/HelloHTML5World/src/myApp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="2444" selection-end="2965" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Game02/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="44" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Game02/src/SysMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="0" selection-start="4280" selection-end="4280" vertical-scroll-proportion="0.85631067">
+        <state line="35" column="0" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.94026977">
           <folding />
         </state>
       </provider>

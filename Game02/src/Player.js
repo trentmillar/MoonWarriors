@@ -73,17 +73,17 @@ var Player = cc.Sprite.extend({
 
         //revive effect
         this.canBeAttack = false;
-        var ghostSprite = cc.Sprite.createWithTexture(playerTexture, cc.rect(0, 0, 100, 100));
+        /*var ghostSprite = cc.Sprite.createWithTexture(playerTexture, cc.rect(0, 0, 100, 100));
         ghostSprite.setBlendFunc(gl.SRC_ALPHA, gl.ONE);
         ghostSprite.setScale(8);
         ghostSprite.setPosition(cc.p(this.getContentSize().width / 2, 12));
         this.addChild(ghostSprite, 3000, 99999);
-        ghostSprite.runAction(cc.ScaleTo.create(0.5, 1, 1));
+        ghostSprite.runAction(cc.ScaleTo.create(0.5, 1, 1));*/
         var blinks = cc.Blink.create(3, 9);
         var makeBeAttack = cc.CallFunc.create(this, function (t) {
             t.canBeAttack = true;
             t.setVisible(true);
-            t.removeChild(ghostSprite,true);
+           // t.removeChild(ghostSprite,true);
         });
         this.runAction(cc.Sequence.create(cc.DelayTime.create(0.5), blinks, makeBeAttack));
     },
@@ -126,7 +126,7 @@ var Player = cc.Sprite.extend({
                 this._hurtColorLife--;
             }
             if (this._hurtColorLife == 1) {
-                this.setColor(cc.WHITE);
+                //this.setColor(cc.WHITE);
             }
         }
     },

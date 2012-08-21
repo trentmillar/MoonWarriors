@@ -18,6 +18,7 @@ var MW = MW || {};
             'src/Enemy.js',
             'src/Explosion.js',
             'src/Player.js',
+            'src/LevelManager.js',
             'src/GameController.js',
             'src/GameControlMenu.js',
             'src/GameLayer.js',
@@ -28,12 +29,6 @@ var MW = MW || {};
         ]
     };
     window.addEventListener('DOMContentLoaded', function () {
-        //first load engine file if specified
-        /*var s = d.createElement('script');
-        s.id = 'cocos2d-html5';
-        s.src = c.engineDir + 'platform/jsloader.js';
-        s.c = c;
-        d.body.appendChild(s);*/
         var s = d.createElement('script');
         s.src = c.engineDir + 'platform/jsloader.js';
         d.body.appendChild(s);
