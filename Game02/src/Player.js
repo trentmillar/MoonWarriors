@@ -126,7 +126,7 @@ var Player = cc.Sprite.extend({
                 this._hurtColorLife--;
             }
             if (this._hurtColorLife == 1) {
-                //this.setColor(cc.WHITE);
+                this.setColor(cc.WHITE);
             }
         }
     },
@@ -146,14 +146,14 @@ var Player = cc.Sprite.extend({
         b.setPosition(cc.p(p.x - offset, p.y + 3 + cs.height * 0.3));*/
     },
     destroy:function () {
-        /*MW.LIFE--;
+        MW.LIFE--;
         var p = this.getPosition();
         var myParent = this.getParent();
         myParent.addChild( new Explosion(p) );
         myParent.removeChild(this,true);
         if (MW.SOUND) {
-            cc.AudioEngine.getInstance().playEffect(s_shipDestroyEffect);
-        }*/
+            //cc.AudioEngine.getInstance().playEffect(s_shipDestroyEffect);
+        }
     },
     hurt:function () {
         if (this.canBeAttack) {
